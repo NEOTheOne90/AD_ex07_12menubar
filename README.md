@@ -1,4 +1,4 @@
-# Project7_1backgroundcolor
+# AD_ex7_1backgroundcolor
 
 # 배경색 변경앱
 
